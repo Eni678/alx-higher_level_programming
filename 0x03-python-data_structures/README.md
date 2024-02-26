@@ -1,1 +1,1 @@
-Repository dedicated to the practice of list and tuples in python
+Lists, Tuples the basic datastructures in python
