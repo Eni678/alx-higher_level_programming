@@ -14,7 +14,7 @@ if lastdigit > 5:
     string = "and is greater than 5"
 elif lastdigit == 0:
     string = 'and is 0'
-elif lastdigit <6:
+elif lastdigit < 6:
     string = "and is less than 6 and not 0"
 
 print("Last digit of {:d} is {:d}".format(number, lastdigit), string)
